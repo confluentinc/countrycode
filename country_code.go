@@ -1,4 +1,4 @@
-package signup
+package countryCodesRef
 
 var countryCodes = map[string]string{
 	"AF": "Afghanistan",
