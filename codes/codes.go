@@ -1,6 +1,6 @@
 package codes
 
-var countryCodes = map[string]string{
+var CountryCodes = map[string]string{
 	"AF": "Afghanistan",
 	"AL": "Albania",
 	"DZ": "Algeria",
