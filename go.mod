@@ -1,3 +1,3 @@
-module github.com/confluentinc/country-code/countryCodesRef
+module github.com/confluentinc/country-code
 
 go 1.16
