@@ -1,4 +1,4 @@
-package codes
+package main
 
 var CountryCodes = map[string]string{
 	"AF": "Afghanistan",
