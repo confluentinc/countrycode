@@ -246,5 +246,3 @@ var Codes = map[string]string{
 	"SX": "Sint Maarten (Dutch part)",
 	"XK": "Kosovo",
 }
-
-func main() {}
